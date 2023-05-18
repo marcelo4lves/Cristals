@@ -1,0 +1,63 @@
+ { "dados" : [{
+    "id":"01",
+    "name": "Selenita",
+    "desciption":"A Selenita é conhecida como pedra da paz profunda e possui esse nome graças à sua característica de ser extremamente pura. Dizem que o cristal traz serenidade, tranquilidade e segurança para pessoas e ambientes. Aprenda mais sobre suas propriedades e benefícios acompanhando nosso post até o final e se apaixone pela beleza desse cristal!",
+    "image": "../..//public/assets/selenita.jpg"
+},
+{
+    "id":"02",
+    "name":"Turmalina",
+    "desciption":"",
+    "image":"../..//public/assets/turmalina.jpg"
+},
+{
+    "id":"03",
+    "name":"Ametista",
+    "desciption":"",
+    "image":"../..//public/assets/ametista.jpeg"
+},
+{
+    "id":"04",
+    "name":"Quartzo",
+    "desciption":"",
+    "image":"../..//public/assets/quartzo.jpg"
+},
+{
+    "id":"05",
+    "name":"Obsdiaiana",
+    "desciption":"",
+    "image":"../..//public/assets/obsidiana.jpg"
+},
+{
+    "id":"06",
+    "name":"Olho de Tigre",
+    "desciption":"",
+    "image":"../..//public/assets/olho-de-tigre.jpeg"
+},
+{
+    "id":"07",
+    "name":"Topazio",
+    "desciption":"",
+    "image":"../..//public/assets/topazio.jpg"
+},
+{
+    "id":"08",
+    "name":"Ágata",
+    "desciption":"",
+    "image":"../..//public/assets/agata.jpg"
+},
+{
+    "id":"09",
+    "name":"Citrino",
+    "desciption":"",
+    "image":"../..//public/assets/citrino.jpg"
+}
+
+
+
+
+
+
+
+ ]
+ }
